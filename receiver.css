@@ -1,0 +1,8 @@
+
+body {
+  --playback-logo-image: url('https://www.gstatic.com/eureka/player/0000/skins/cast/logo.png');
+  --logo-image: url('https://www.gstatic.com/eureka/player/0000/skins/cast/logo.png');
+}
+cast-media-player {
+  /*--splash-image: url('https://www.gstatic.com/eureka/player/0000/skins/cast/logo.png');*/
+}
